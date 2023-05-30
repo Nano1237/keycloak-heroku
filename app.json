@@ -27,9 +27,9 @@
         }
     },
     "formation": {
-        "web": {
+    "web": {
             "quantity": 1,
-            "size": "Performance-M"
+            "size": "Free"
         }
     },
     "addons": [
